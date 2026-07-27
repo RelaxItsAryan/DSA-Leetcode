@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array">1464. Maximum Product of Two Elements in an Array</a></h2><h3>Easy</h3><hr><p>Given the array of integers <code>nums</code>, choose two different indices <code>i</code> and <code>j</code> and return the value of <code>(nums[i]-1)*(nums[j]-1)</code>.</p>
